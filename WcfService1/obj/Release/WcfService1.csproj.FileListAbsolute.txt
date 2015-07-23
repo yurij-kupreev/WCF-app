@@ -1,0 +1,5 @@
+D:\.NET LAB\WCF app\WcfService1\bin\WcfService1.dll.config
+D:\.NET LAB\WCF app\WcfService1\bin\WcfService1.dll
+D:\.NET LAB\WCF app\WcfService1\bin\WcfService1.pdb
+D:\.NET LAB\WCF app\WcfService1\obj\Release\WcfService1.dll
+D:\.NET LAB\WCF app\WcfService1\obj\Release\WcfService1.pdb
